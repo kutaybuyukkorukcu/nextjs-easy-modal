@@ -1,10 +1,11 @@
 import React from 'react'
 
-import { ExampleComponent } from 'react-easy-modal'
-import 'react-easy-modal/dist/index.css'
-
 const App = () => {
-  return <ExampleComponent text="Create React Library Example 😄" />
+  return (
+    <>
+      react-easy-modal  
+    </>
+  );
 }
 
-export default App
+export default App;
